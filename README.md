@@ -1,2 +1,0 @@
-# RYSE-schedule
-Call Log
